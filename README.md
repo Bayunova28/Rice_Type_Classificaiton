@@ -1,5 +1,5 @@
 # Rice Type Classificaiton
-<img src="https://github.com/Bayunova28/Rice_Type_Classificaiton/blob/master/Images/cover.jpg" height="450" width="1100">
+<img src="https://github.com/Bayunova28/Rice_Type_Classificaiton/blob/master/Images/cover.jpg" height="400" width="1100">
 
 ## Context
 <p align=justify>Rice has been one of the most widely consumed foods for a large part of human population. Numerous different rice varieties are imported and exported 
